@@ -1,4 +1,8 @@
-<h2>Discord Bot</h2>
+## Objetivo
+
+Demonstrar conhecimentos de Python suficientes para criação de um bot no app Discord que receba diferentes informações sobre o servidor em que se encontra e responda a alguns comandos enviados por usuários formatados para melhor visualização.
+
+## Primeiros passos
 
 Para rodar o bot é necessário primeiro instalar as libs `discord`, `dotenv` e `cinemagoer`.
 
@@ -12,6 +16,7 @@ Na pasta do projeto, rode os seguintes códigos no terminal:
 
 Ou, usando PyCharm, pesquise pelas libs em Python Packages e instale.
 
+<h2>Discord Bot</h2>
 ___________________________________________
 
 Para fazer o bot logar no servidor, basta rodar o arquivo `main.py`.
