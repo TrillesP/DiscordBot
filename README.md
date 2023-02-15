@@ -17,7 +17,6 @@ Na pasta do projeto, rode os seguintes códigos no terminal:
 Ou, usando PyCharm, pesquise pelas libs em Python Packages e instale.
 
 <h2>Discord Bot</h2>
-___________________________________________
 
 Para fazer o bot logar no servidor, basta rodar o arquivo `main.py`.
 
